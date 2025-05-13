@@ -6,5 +6,10 @@ html, body {
     overflow: hidden; /*não deixa com que o limite da tela seja violado*/
 }
 body {
-    background-image: url();
+    background-image: url(../src/images/BackgEnig2M.gif);
+    background-size: 1920px 1080px;
 }
+div#Enig2D1M {
+    background-image: url(../src/images/BackgEnig2M.gif);
+    background-size: auto;
+}/*ver o porquê de não estar funcionando o css*/
